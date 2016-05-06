@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Global Comunication</string>
+    <string name="in_es">English -Spanig</string>
+
+    <string name="esp_in">Español - Ingles</string>
+
+    <string name="en_Fre">English - French</string>
+
+</resources>
