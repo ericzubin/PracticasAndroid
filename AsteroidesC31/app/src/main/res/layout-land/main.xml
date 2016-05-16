@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_gravity="center" android:layout_width="fill_parent" android:gravity="center" android:background="@drawable/degradado" android:layout_height="fill_parent" android:padding="30dip">
+<TextView  
+    android:layout_height="wrap_content" 
+    android:layout_width="wrap_content" android:layout_gravity="center" android:textSize="25sp" android:paddingBottom="20dip" android:text="@string/tituloAplicacion" android:textColor="@color/colordetitulo"/>
+<TableLayout android:layout_width="fill_parent" android:id="@+id/tableLayout1" android:gravity="center" android:layout_gravity="center" android:stretchColumns="*" android:layout_height="wrap_content">
+    <TableRow android:id="@+id/tableRow1" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_gravity="center">
+        <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/Arrancar" android:id="@+id/button1"></Button>
+        <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/Configurar" android:id="@+id/button2"></Button>
+    </TableRow>
+    <TableRow android:id="@+id/tableRow2" android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_gravity="center">
+        <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/Acercade" android:id="@+id/button3"></Button>
+        <Button android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/Salir" android:id="@+id/button4"></Button>
+    </TableRow>
+</TableLayout>
+</LinearLayout>

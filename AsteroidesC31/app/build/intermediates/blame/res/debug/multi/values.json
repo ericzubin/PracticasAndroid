@@ -1,0 +1,241 @@
+[
+    {
+        "outputFile": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 15,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 51,
+                        "endLine": 6,
+                        "endColumn": 15,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endLine": 11,
+                    "endColumn": 15,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 163,
+                        "endLine": 11,
+                        "endColumn": 15,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 49,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 46,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endColumn": 46,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 42,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 42,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 49,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 49,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 39,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 39,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 45,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 45,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 47,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 47,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endColumn": 58,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 661,
+                    "endColumn": 55,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 55,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endLine": 26,
+                    "endColumn": 8,
+                    "endOffset": 1000
+                },
+                "from": {
+                    "file": "C:\\Users\\Eric\\Documents\\GitHub\\Dispositivos Moviles\\PracticasAndroid\\AsteroidesC31\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 442,
+                        "endLine": 19,
+                        "endColumn": 8,
+                        "endOffset": 727
+                    }
+                }
+            }
+        ]
+    }
+]
